@@ -1,0 +1,22 @@
+{
+"products": [{"id":1,"name":"Racer snake","category":"Blue"},
+{"id":2,"name":"Stick insect","category":"Green"},
+{"id":3,"name":"Trumpeter swan","category":"Red"},
+{"id":4,"name":"Francolin, coqui","category":"Violet"},
+{"id":5,"name":"Pigeon, wood","category":"Pink"},
+{"id":6,"name":"Black-cheeked waxbill","category":"Khaki"},
+{"id":7,"name":"Egret, snowy","category":"Pink"},
+{"id":8,"name":"Tawny eagle","category":"Yellow"},
+{"id":9,"name":"Vulture, black","category":"Crimson"},
+{"id":10,"name":"Common brushtail possum","category":"Fuscia"},
+{"id":11,"name":"Blue catfish","category":"Turquoise"},
+{"id":12,"name":"Fairy penguin","category":"Aquamarine"},
+{"id":13,"name":"Wallaby, whip-tailed","category":"Pink"},
+{"id":14,"name":"Admiral, indian red","category":"Mauv"},
+{"id":15,"name":"Eurasian hoopoe","category":"Mauv"},
+{"id":16,"name":"African porcupine","category":"Teal"},
+{"id":17,"name":"Ring-tailed possum","category":"Turquoise"},
+{"id":18,"name":"Kafue flats lechwe","category":"Aquamarine"},
+{"id":19,"name":"Hyena, spotted","category":"Red"},
+{"id":20,"name":"Two-banded monitor","category":"Crimson"}]
+}
